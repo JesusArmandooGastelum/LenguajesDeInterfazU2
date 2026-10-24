@@ -34,9 +34,3 @@
 | 13 | Obtención de una cadena hexadecimal | [P13_CadenaHexadecimal.asm](P13_CadenaHexadecimal.asm) |
 | 14 | Captura y almacenamiento de datos numéricos | [P14_CapturaNumerica.asm](P14_CapturaNumerica.asm) |
 | 15 | Manipulación de archivos | [P15_ManipulacionArchivos.asm](P15_ManipulacionArchivos.asm) |
-
-## Cómo ejecutar una práctica
-
-1. Abrir la plantilla de Visual Studio 2022 con MASM e Irvine32 (plataforma x86).
-2. Agregar el archivo `.asm` de la práctica al proyecto (solo uno a la vez, porque todos tienen `main`).
-3. Compilar con **Build** y ejecutar con **Ctrl + F5**.
